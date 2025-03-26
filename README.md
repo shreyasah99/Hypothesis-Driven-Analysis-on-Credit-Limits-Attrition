@@ -2,6 +2,8 @@
 
 This project applies statistical and machine learning methods to analyze a real-world credit card customer dataset. The goal is to test two business-critical hypotheses related to **credit limit determination** and **customer attrition risk** — helping financial institutions make better data-driven decisions.
 
+📄 [Download Project Report (GitHub)](./final project report.pdf)  
+📊 [Download Presentation Slides (GitHub)](./Ppt PDF.pdf)
 ---
 
 ## 📌 Table of Contents
